@@ -1,0 +1,109 @@
+
+body{
+    background-color: #9ac72c;
+}
+.encavesado{
+    border-right: 1px solid black;
+}
+.encavesado h1{
+    font-family: 'Dancing Script', cursive;
+}
+.encavesado h5{
+    text-align: right;
+}
+
+.spiral{
+    background-image: url(../images/spiral2.jpg);
+    height: 30px;
+}
+
+.st_menu{
+    list-style: none;
+}
+
+.st_menu li a{
+    list-style: none;
+     font-weight: bold;
+    
+}
+
+.st_menu li a img{
+    width: 30px;
+}
+
+.st_galeria_favoritos{
+    background-image: url(../images/madera2.jpg);
+    background-repeat: no-repeat;
+    padding: 30px;
+        
+}
+
+.st_galeria_favoritos img{
+    width: 100%;
+    height: auto;
+    display: inline;
+    margin: 10px;
+}
+
+.st_historial{
+    background-image: url(../images/pizarra.jpg);
+    background-repeat: no-repeat; 
+    background-size:cover;
+    height:auto;
+    padding-top: 55%;
+    padding-bottom: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    border: 1px solid #000;
+    text-align: center;
+    
+}
+
+.st_historial ul li{
+    list-style: none;
+}
+
+.st_historial ul a{
+    color: #fff;
+}
+
+
+
+
+.st_articulo{
+     padding-top: 30px;   
+}
+
+
+
+.color_2{
+    background-color: #fff;
+}
+
+.color_1{
+    background-color: #369;
+}
+
+.color_3{
+    background-color: #ddeaeb;
+}
+
+.st_comentarios li{
+    border: 1px solid #000;
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    border-radius: 20px;
+    list-style: none;
+    padding-left: 15px;
+}
+
+.st_comentarios li img{
+    width: 6%;
+    height: auto;
+    border-radius: 25px;
+}
+
+
+
+
